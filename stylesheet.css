@@ -1,0 +1,86 @@
+header {
+	background-image: url("header.jpg");
+	padding: 5px;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'sans serif';
+	color: #fff3c7;
+	font-size: 60px;
+}
+.intro {
+	text-align: center;
+	font-family: 'sans serif';
+	color: #fff3c7;
+	font-size: 30px;
+	padding: 1%;
+}
+body {
+	background-color: #0B1328;
+}
+.pic {
+	margin: 30px;
+    padding: 1% 40% 1%;
+   max-width: 500px;
+}
+.quote {
+	color: #fff3c7;
+	text-align: center;
+}
+.aboutme {
+	color: #fff3c7;
+	text-align: center;
+	padding: 0% 30% 0%;
+}
+
+.main-nav {
+  
+  width: 30%;
+  min-height: 30px;
+  text-align: center;
+}
+.nav {
+  display: flex;
+  font-weight: 700;
+  list-style-type: none;
+  padding: 1% 120% 1%;
+}
+.nav .name {
+  display: none;
+}
+.nav li {
+  padding: 5px 10px 10px 10px;
+}
+.nav a {
+  transition: all .5s;
+}
+.nav a:hover {
+  color: white
+}
+.pics {
+	padding: 2% 15% 2%;
+}
+.pics2 {
+	padding: 5% 22% 5%;
+}
+.des {
+	color: #fff3c7;
+	text-align: center;
+}
+.writing {
+	color: #fff3c7;
+	text-align: center;
+	padding: 5% 30% 5%;
+}
+.appro {
+	margin: 30px;
+    padding: 1% 35% 1%;
+   max-width: 500px;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: blue;
+}
